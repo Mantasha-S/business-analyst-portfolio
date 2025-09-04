@@ -39,7 +39,7 @@ This solves the problem of wasted visits and improves member satisfaction.
 ---
 
 ## 📊 Dashboards
-- **Sales Dashboard (Power BI)** – [View on Kaggle](your-kaggle-link)  
+- **Sales Dashboard (Power BI)** – [View on Kaggle](https://www.kaggle.com/datasets/mantashas/power-bi-sales-dashboard-superstore-dataset)  
 ---
 
 ## 🛠 Tools Used
