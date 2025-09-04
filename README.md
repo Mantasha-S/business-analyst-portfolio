@@ -26,15 +26,15 @@ This solves the problem of wasted visits and improves member satisfaction.
 ---
 
 ## 📂 Deliverables in this Portfolio
-- **Business Requirements Document (BRD)**  
-- **Business Case** with cost-benefit analysis & recommendation  
-- **As-Is & To-Be Process Diagrams**  
-- **Workflow Diagram**  
-- **User Stories** & **Acceptance Criteria**  
-- **Use Case Diagram & Use Case Descriptions**  
-- **Requirements Traceability Matrix (RTM)**  
-- **Wireframes** (proposed app screens)  
-- **Test Scenarios**   
+- [**Business Requirements Document (BRD)**](docs/Library-Reservation-System-Architecture.pdf)  
+- [**Business Case**](docs/Library-Reservation-System-Business-Case.pdf) with cost-benefit analysis & recommendation  
+- [**As-Is & To-Be Process Diagrams**](diagrams/library-reservation-As.Is-To.Be.pdf)  
+- [**Workflow Diagram**](diagrams/library-reservation-Workflows.pdf)  
+- [**User Stories & Acceptance Criteria**](docs/Library-Reservation-System-User-Story.pdf)  
+- [**Use Case Diagram**](diagrams/library-reservation-Use-Case.pdf)  
+- [**Requirements Traceability Matrix (RTM)**](docs/Library-Reservation-System-RTM.pdf)
+- [**Wireframes** (proposed app screens)](diagrams/library-reservation-Wireframe.pdf)  
+- [**Test Scenarios**](docs/Library-Reservation-System-Test-Scenario.pdf)   
 
 ---
 
